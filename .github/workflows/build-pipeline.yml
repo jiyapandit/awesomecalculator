@@ -62,3 +62,4 @@ jobs:
         python -m pip install artifact/*.whl
     - name: List Installed Packages
       run: pip list
+      
